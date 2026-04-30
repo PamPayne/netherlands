@@ -1,2 +1,11 @@
-> **Source:** [Operational Model Map - Logical - Casino and Sportsbook - Betway - Netherlands.pdf](https://dbnsa.sharepoint.com/sites/ComplianceOfficers93/Regulatory Repository/Rest of World/Netherlands/5. Other Documents/Operational Model Map - Logical - Casino and Sportsbook - Betway - Netherlands.pdf)
+---
+country: Netherlands
+document_name: Operational Model Map - Logical - Casino and Sportsbook - Betway - Netherlands
+source_file: Operational Model Map - Logical - Casino and Sportsbook - Betway - Netherlands.docx
+extracted_date: 2026-04-30
+jurisdiction: Netherlands
+---
 
+# Operational Model Map - Logical - Casino and Sportsbook - Betway - Netherlands
+
+DOCX extraction error: No binary data — DOCX extraction unavailable
